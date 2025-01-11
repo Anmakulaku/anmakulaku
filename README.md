@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Anna
 
-### An aspiring Frontend Developer from Wrocław, Poland
+### Frontend Developer from Wrocław, Poland
 
 ## Connect with me 
 <a href="https://www.linkedin.com/in/kucharska-anna">
